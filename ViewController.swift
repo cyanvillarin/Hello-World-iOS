@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonPressed(_ sender: Any) {
-        box1.text = "Hello World!"
+        box1.text = "Hi Cyan!"
     }
     
     @IBOutlet weak var box1: UILabel!
